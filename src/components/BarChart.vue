@@ -1,4 +1,3 @@
-<template><div></div></template>
 <script>
 import { Bar } from "vue-chartjs";
 
